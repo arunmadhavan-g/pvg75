@@ -28,7 +28,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install -g gatsby-cli
     - run: npm install
-    - run: gatsby build
+    - run: gatsby build --prefix-paths
     # - run: cp CNAME public
 
     - name: Deploy
