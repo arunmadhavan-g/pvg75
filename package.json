@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "gatsby": "^2.20.12",
-    "gatsby-theme-photo-albums": "*",
+    "gatsby-plugin-manifest": "^2.1.12",
+    "gatsby-theme-photo-albums": "^1.0.3",
     "lodash.merge": "^4.6.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
