@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: '/',
+    pathPrefix: '/pvg75',
     plugins: [{
             resolve: 'gatsby-theme-photo-albums',
             options: {
